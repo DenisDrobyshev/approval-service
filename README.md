@@ -1,5 +1,13 @@
 # approval-service
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-async-D71F00)]()
+[![Alembic](https://img.shields.io/badge/Alembic-migrations-6BA81E)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![pytest](https://img.shields.io/badge/tested%20with-pytest-0A9EDC?logo=pytest&logoColor=white)]()
+
 A backend service for **content approval workflows**. It accepts requests to
 approve content before publication and records the final decision. External
 entities (publications, scenarios, users, workspaces) are referenced by
